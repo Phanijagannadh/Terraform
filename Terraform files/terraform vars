@@ -1,6 +1,0 @@
-*/ami_value = "ami-007e5a061b93ceb2f"
-instance_type_value = "t3.small"
-subnet_id_value = "subnet-0f2f58a6a8da83f8e "
-tag_name = "testterraform"
-keyname = "terraform"
-bucketname = "statebackend91"  
